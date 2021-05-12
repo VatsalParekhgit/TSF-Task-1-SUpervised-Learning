@@ -1,5 +1,9 @@
 # TSF-Task-1-Supervised-Learning
-Prediction-using-Supervised-ML
+
+
+# Prediction by Linear Regression
+
+
 Author - VATSAL PAREKH
 
 Data Science and Business Analytics Task-1 
